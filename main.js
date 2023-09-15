@@ -7,5 +7,5 @@ function rain(){
 }
 setInterval(function(){
  rain()
-},1000)
+},1000);
 
